@@ -1,5 +1,3 @@
-Logic-Board
-
 Logic-Board is an offline digital logic circuit simulator for Android.
 
 Main Features
